@@ -1,0 +1,7 @@
+# String file for PlayDSD plugin
+
+PLUGIN_PLAYDSD
+	EN	Play DSD
+
+PLUGIN_PLAYDSD_DESC
+	EN	Keeps different releases of the same album apart using the Discogs release id, and adds DSD (DSF and DFF) transcoding, with scanner-safe registration
